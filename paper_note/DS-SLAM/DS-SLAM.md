@@ -48,9 +48,4 @@
 5.In real-world applications, accurate pose estimation and reliability in harsh environments are critical factors to evaluate autonomous robots. ORB-SLAM2 has an excellent performance in most practical situations. Therefore, ORB-SLAM2 is adopted in DS-SLAM to provide a global feature-based SLAM solution that enables us to detect dynamic objects and produce semantic octo-tree map.
 
 
-这是最新的版本11111111111
-
-这是最新的版本22222
-
-
-20230205
+刚才是错误的，这才是新的
